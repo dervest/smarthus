@@ -12,8 +12,9 @@ I tillegg ønsker jeg å ta et miljøbilde ut i naturen med jevne mellomrom.
 - Jeg bor ikke i nærheten av huset så: 
 	- det bør være robust
 	- det må sende data til en database i skyen
-- Utsatt for tordenvær:
-	- Sentral enhet bør kobles til UPS
+- Området er utsatt for tordenvær:
+	- Sentral enhet bør kobles til UPS som tåler å kjøre ei stund.  
+	- Sentral enhet må autostarte dersom strøm har vært borte ei stund.
 	- Sensorer bør gå på batteri
 
 
